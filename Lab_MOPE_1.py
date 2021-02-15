@@ -1,9 +1,9 @@
 import random
 
-a0 = 2
-a1 = 3
-a2 = 1
-a3 = 4
+a0 = random.randint(50, 100)
+a1 = random.randint(50, 100)
+a2 = random.randint(50, 100)
+a3 = random.randint(50, 100)
 
 n = 8
 
